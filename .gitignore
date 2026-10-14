@@ -1,0 +1,11 @@
+# Node / Environment
+node_modules/
+.DS_Store
+Thumbs.db
+*.tmp
+test_*.png
+test_*.py
+
+# Editor
+.vscode/
+.idea/
